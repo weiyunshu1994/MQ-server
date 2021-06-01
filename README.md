@@ -1,7 +1,12 @@
-# hello-world
-This is my first trying for github
-Time elapse without our atention, so we should try our best to study and format ourself ways.
+[toc]
 
+项目介绍：
 
+该项目主要使用MQ实践
 
-now we add sth in this file for git diff.
+##  1. 消息队列
+
+## 2. java实现消息队列
+
+## 3. RabbitMQ实践
+
